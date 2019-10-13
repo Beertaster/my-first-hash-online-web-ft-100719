@@ -1,6 +1,6 @@
 def my_hash
   # use the literal constructor to set the variable, my_hash, equal to a hash with key/value pairs of your choice.
-my_hash = {"Faction" => "Alliance", "Class" => "Warlock", "race" => "Gnome", "level" => 60 }
+my_hash = {"Faction" => "Alliance", "Class" => "Warlock", "Race" => "Gnome", "Level" => 60 }
   
 end
 
